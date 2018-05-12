@@ -1,9 +1,8 @@
 _repo: The-Life-of-Sir-Rowland-Hill-Vol-II-of-2-and-the-History-of-Penny-Postage_46498
+_version: 0.1.0
 covers:
 - cover_type: archival
-  image_path: 46498/46498-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46498-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Hill, Rowland
@@ -17,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2931
     wikipedia: http://en.wikipedia.org/wiki/George_Birkbeck_Norman_Hill
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46498#The-Life-of-Sir-Rowland-Hill-Vol-II-of-2-and-the-History-of-Penny-Postage
 gutenberg_issued: '2014-08-03'
 gutenberg_type: Text
 identifiers:
